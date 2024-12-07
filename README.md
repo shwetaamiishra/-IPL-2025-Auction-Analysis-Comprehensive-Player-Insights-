@@ -1,8 +1,6 @@
 🌟 IPL 2025 Auction Analysis: Comprehensive Player Insights 🌟
 
 *** This dashboard provides an in-depth analysis of players from the 2025 IPL Auction. It offers insights into player demographics, batting and bowling styles, experience levels, and more. Dive into the data to explore how players are distributed by age, country, specialization, and team involvement. ***
-![Dashboard 1 (1)](https://github.com/user-attachments/assets/5d7506fb-c3b1-4c39-b947-709d463b8181)
-
 ➡ This dashboard will answer questions like:
 💲 Which countries dominate the IPL 2025 auction?
 💲 What is the age distribution of players in the auction?
@@ -24,4 +22,6 @@ Reserve Price Analysis (Histogram)
 ➡ The Reserve Price Histogram provides a visual representation of player valuation, helping you see where most players fall within the auction price range.
 
 ***** Overall, this dashboard offers a comprehensive view of the IPL 2025 auction trends, including player demographics, roles, pricing, and team distribution — perfect for scouting and analyzing player potential! ***
+
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/5d7506fb-c3b1-4c39-b947-709d463b8181)
 
